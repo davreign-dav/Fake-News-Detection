@@ -18,8 +18,10 @@ This ‘Fake News Detection’ project explain the Python code to load, clean, a
 ## The Data
 
 The data comes from Kaggle in two files:
+
 •	Fake.csv
 •	True.csv
+
 You can download it here:
 
 https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
