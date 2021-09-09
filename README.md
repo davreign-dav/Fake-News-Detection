@@ -11,7 +11,7 @@ The problem is serious and difficult to fix. It's not always easy to tell if inf
 ## Objective 
 To build a model to accurately classify a piece of news as REAL or FAKE.
 
-In this python project , several ways of modelling technique with different accuracy result have been used to detect fake or real news using collected data. And the best technique’s result is shown as confusion matrix and saved into submission.csv file. 
+In this python project , several ways of modelling technique with different accuracy result have been used to detect fake or real news using collected data. And the best technique’s result has been shown as confusion matrix and saved into submission.csv file. 
 
 Algorithm/Approach that are used in this project:
 
